@@ -24,7 +24,20 @@ This project is open-source and free to use.
 
 Pictures :
 
-Screenshot 2025-08-18 161240 Screenshot 2025-08-18 161307 Screenshot 2025-08-18 161333 Screenshot 2025-08-18 161355 Screenshot 2025-08-18 161413
+<img width="1870" height="923" alt="Screenshot 2025-08-18 161240" src="https://github.com/user-attachments/assets/2e3582c9-58b7-4bee-afe1-8959a817e111" />
+
+<img width="1896" height="914" alt="Screenshot 2025-08-18 161307" src="https://github.com/user-attachments/assets/4642bd11-9149-42a0-a4d1-1c60d81c9269" />
+
+<img width="1890" height="920" alt="Screenshot 2025-08-18 161333" src="https://github.com/user-attachments/assets/e1eda173-3856-4944-b936-d796db537137" />
+
+<img width="1874" height="918" alt="Screenshot 2025-08-18 161355" src="https://github.com/user-attachments/assets/591e2782-c022-4235-b352-c1a00860a06e" />
+
+<img width="1878" height="916" alt="Screenshot 2025-08-18 161413" src="https://github.com/user-attachments/assets/064b0bcb-aefa-4661-9b3d-d40b3d2b5773" />
+
+
+
+
+
 
 
 
