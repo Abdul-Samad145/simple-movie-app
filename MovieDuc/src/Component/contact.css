@@ -1,0 +1,42 @@
+.page {
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 30px;
+  background: #1e1e1e;
+  color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+  text-align: center;
+}
+
+.page h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #ff4757;
+}
+
+.page p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.page ul {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+  text-align: left;
+}
+
+.page ul li {
+  background: #2c2c2c;
+  margin: 10px 0;
+  padding: 12px 16px;
+  border-radius: 8px;
+  font-size: 1rem;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.3);
+}
+
+.page ul li strong {
+  color: #ff6b81;
+}

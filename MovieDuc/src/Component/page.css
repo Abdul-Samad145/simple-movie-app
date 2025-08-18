@@ -1,0 +1,24 @@
+.page {
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 30px;
+  background: #1e1e1e;   
+  color: #fff;           
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+  line-height: 1.6;
+  font-family: 'Roboto', sans-serif;
+}
+
+.page h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #ff9800;   
+}
+
+.page p {
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+  text-align: justify;
+}

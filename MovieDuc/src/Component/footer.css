@@ -1,0 +1,23 @@
+/* page layout so footer sits at bottom */
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* footer container */
+.footer {
+  margin-top: auto;
+  background: #222;
+  color: #fff;
+  padding: 14px 0;
+  display: flex;
+  justify-content: center; /* centers content horizontally */
+  align-items: center;     /* centers vertically */
+}
+
+/* footer text */
+.footer-text {
+  margin: 0;
+  text-align: center;
+}
