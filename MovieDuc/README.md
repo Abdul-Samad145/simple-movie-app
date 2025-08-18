@@ -24,15 +24,20 @@ This project is open-source and free to use.
 
 Pictures :
 
-<img width="1870" height="923" alt="Screenshot 2025-08-18 161240" src="https://github.com/user-attachments/assets/2e3582c9-58b7-4bee-afe1-8959a817e111" />
 
-<img width="1896" height="914" alt="Screenshot 2025-08-18 161307" src="https://github.com/user-attachments/assets/4642bd11-9149-42a0-a4d1-1c60d81c9269" />
+<img width="1897" height="929" alt="Screenshot 2025-08-18 202454" src="https://github.com/user-attachments/assets/3e196477-762f-4cf3-b876-2eef9c1700e1" />
 
-<img width="1890" height="920" alt="Screenshot 2025-08-18 161333" src="https://github.com/user-attachments/assets/e1eda173-3856-4944-b936-d796db537137" />
 
-<img width="1874" height="918" alt="Screenshot 2025-08-18 161355" src="https://github.com/user-attachments/assets/591e2782-c022-4235-b352-c1a00860a06e" />
+<img width="1877" height="923" alt="Screenshot 2025-08-18 202508" src="https://github.com/user-attachments/assets/8fc1d6e3-70cf-4f82-85c8-21e565344fbe" />
 
-<img width="1878" height="916" alt="Screenshot 2025-08-18 161413" src="https://github.com/user-attachments/assets/064b0bcb-aefa-4661-9b3d-d40b3d2b5773" />
+
+<img width="1871" height="936" alt="Screenshot 2025-08-18 202523" src="https://github.com/user-attachments/assets/c455ec8c-2cff-4d29-834b-bf04d2694344" />
+
+
+<img width="1885" height="924" alt="Screenshot 2025-08-18 202555" src="https://github.com/user-attachments/assets/f74f2607-2631-43ff-ae5d-56c490bf19b8" />
+
+
+<img width="1889" height="925" alt="Screenshot 2025-08-18 202608" src="https://github.com/user-attachments/assets/da2431da-0e37-46b4-a2be-d6d20b167785" />
 
 
 
