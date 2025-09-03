@@ -1,3 +1,5 @@
+
+
 🎬 React Movie App
 
 A simple React application that displays movies using data from a local Movies.json file. This project is built with React functional components and demonstrates the usage of useState and useEffect hooks.
